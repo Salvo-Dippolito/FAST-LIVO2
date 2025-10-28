@@ -1,12 +1,26 @@
+# cam_model: Pinhole
+# cam_width: 1280
+# cam_height: 1024
+# scale: 0.5
+# cam_fx: 1293.56944
+# cam_fy: 1293.3155
+# cam_cx: 626.91359
+# cam_cy: 522.799224
+# cam_d0: -0.076160
+# cam_d1: 0.123001
+# cam_d2: -0.00113
+# cam_d3: 0.000251
+
+#mid360 camera_rig: hirobot calibration done on 1280x1024 24/10/2025
 cam_model: Pinhole
 cam_width: 1280
 cam_height: 1024
-scale: 0.5
-cam_fx: 1293.56944
-cam_fy: 1293.3155
-cam_cx: 626.91359
-cam_cy: 522.799224
-cam_d0: -0.076160
-cam_d1: 0.123001
-cam_d2: -0.00113
-cam_d3: 0.000251
+scale: 0.5 #maybe change to 1?
+cam_fx: 1313.111374
+cam_fy: 1310.498893
+cam_cx: 642.424582
+cam_cy: 526.391898
+cam_d0: -0.120113
+cam_d1: 0.306368
+cam_d2: 0.000056
+cam_d3: 0.005022
